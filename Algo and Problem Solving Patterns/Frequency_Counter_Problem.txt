@@ -1,0 +1,3 @@
+always want to try to avoid nested loops when possible
+
+2 separate loops is better than 2 nested loops

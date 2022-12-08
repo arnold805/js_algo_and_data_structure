@@ -1,0 +1,7 @@
+Understand the Problem
+
+1. restate problem in own words
+2. identify inputs and outputs
+3. Can outputs be dertimined from the inputs?
+
+
